@@ -1,5 +1,4 @@
-
-#GRU Next Word Prediction (Jane Austen - Emma) + Streamlit App
+# GRU Next Word Prediction (Jane Austen - Emma) + Streamlit App
 
 A deep learning project that predicts the next word in a sentence using a GRU-based Neural Network trained on Jane Austen’s Emma (NLTK Gutenberg dataset). The model is deployed using a simple and interactive Streamlit web app for real-time predictions.
 
